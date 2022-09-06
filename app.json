@@ -1,7 +1,7 @@
 
 {
-	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
+	"name": "swag sir-MD",
+	"description": "Fully Costamisable Bot by, swag-sir.",
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
@@ -36,7 +36,7 @@
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "value": "SWAG,sir"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
